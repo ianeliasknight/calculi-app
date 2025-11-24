@@ -1,3 +1,4 @@
+"use stict";
 // Day 3 – Variables & Data Types
 
 // 1. Using let (value can change)
